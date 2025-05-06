@@ -1,2 +1,6 @@
 # Physics
-Physics lectures, scripts Univ. of Bonn 
+Physics lectures, scripts, etc. 
+
+## Univ. of Bonn 
+https://www.uni-bonn.de/de
+
